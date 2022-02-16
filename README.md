@@ -1,6 +1,6 @@
 # Enhanced Schema for MARCXML
 
-Based on the official (MARC 21 XML Schema)[https://www.loc.gov/standards/marcxml/], this schema adds some additional elements to support error handling and fixed-length field decoding.
+Based on the official (MARC 21 XML Schema)[https://www.loc.gov/standards/marcxml], this schema adds some additional elements to support error handling and fixed-length field decoding.
 
 ## Fixed-length Field Decoding
 
